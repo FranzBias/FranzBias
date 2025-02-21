@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FranzBias (Francesco), I live in Germany but I am Italian.
-- 👀 I’m interested in Paint, E-Bass, Guitar and... Linux (Mint).
-- 🌱 I’m currently learning German and Linux.
+- 👋 Hello everyone, I'm @FranzBias (Francesco), I was born in 1968, I live in Germany but I'm Italian.
+- 👀 I'm interested in painting, electric bass, guitar and... Linux. I prefer to use Linux Mint Cinnamon for everyday things, but I also use Ubuntu Studio to make music and Garuda Dr460nized to... have a little fun 😆).
+- 🌱 I'm currently learning German and bash.
 
 <!---
 FranzBias/FranzBias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
