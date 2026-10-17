@@ -59,7 +59,7 @@ Kurzgeschichten, Gedichte und Gedanken. Die leisere Hälfte von byBias.
 |---|---|
 | [**Brezza**](https://github.com/FranzBias/Brezza) | Collapsible system tray for the Cinnamon panel |
 | [**GeppEmoji**](https://github.com/FranzBias/GeppEmoji) | Lightweight emoji picker for Linux (Python + GTK3) |
-| [**Duplicate-Finder**](https://github.com/FranzBias/Duplicate-Finder) | Find and remove duplicate files, non-destructively (PyQt5) |
+| [**Cycle-Case**](https://github.com/FranzBias/Cycle-Case) | Cycle the case of selected text (UPPER → lower → Title) with one shortcut |
 | [**App-Analyzer-Installer**](https://github.com/FranzBias/App-Analyzer-Installer) | Analyze installed apps and recreate your setup (Tkinter) |
 | [**byBias-Icons-Paket**](https://github.com/FranzBias/byBias-Icons-Paket) | Manage a personal icon collection on Cinnamon (GTK) |
 | [**Own-Icon-Theme-In-Cinnamon**](https://github.com/FranzBias/Own-Icon-Theme-In-Cinnamon) | Create your own icon theme in Cinnamon |
