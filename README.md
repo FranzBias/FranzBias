@@ -4,6 +4,7 @@
   <a href="https://code-x.md"><img alt="Blog code-x.md" src="https://img.shields.io/badge/blog-code--x.md-58a6ff?style=for-the-badge"></a>
   <a href="https://bybias.com"><img alt="Writing bybias.com" src="https://img.shields.io/badge/writing-bybias.com-c9a227?style=for-the-badge"></a>
   <a href="https://franzbias.github.io"><img alt="Homepage" src="https://img.shields.io/badge/home-franzbias.github.io-2ea043?style=for-the-badge"></a>
+  <a href="https://gitlab.com/FranzBias"><img alt="Mirror on GitLab" src="https://img.shields.io/badge/mirror-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -57,13 +58,14 @@ Kurzgeschichten, Gedichte und Gedanken. Die leisere Hälfte von byBias.
 
 | | |
 |---|---|
-| [**Brezza**](https://github.com/FranzBias/Brezza) | Collapsible system tray for the Cinnamon panel |
-| [**GeppEmoji**](https://github.com/FranzBias/GeppEmoji) | Lightweight emoji picker for Linux (Python + GTK3) |
+| [**Smorfia**](https://github.com/FranzBias/Smorfia) | Emoji picker for Linux, search in your language and your own tags (formerly GeppEmoji) |
+| [**Command-Swiss-Army-Knife**](https://github.com/FranzBias/Command-Swiss-Army-Knife) | A small GTK toolbox: everyday commands one click away, with man/tldr docs |
+| [**Lampo-Mail**](https://github.com/FranzBias/Lampo-Mail) | Prepare an e-mail in a flash and hand it to your own mail program (GTK) |
 | [**Cycle-Case**](https://github.com/FranzBias/Cycle-Case) | Cycle the case of selected text (UPPER → lower → Title) with one shortcut |
 | [**App-Analyzer-Installer**](https://github.com/FranzBias/App-Analyzer-Installer) | Analyze installed apps and recreate your setup (Tkinter) |
-| [**byBias-Icons-Paket**](https://github.com/FranzBias/byBias-Icons-Paket) | Manage a personal icon collection on Cinnamon (GTK) |
-| [**Own-Icon-Theme-In-Cinnamon**](https://github.com/FranzBias/Own-Icon-Theme-In-Cinnamon) | Create your own icon theme in Cinnamon |
-| [**Change-files-modification-date**](https://github.com/FranzBias/Change-files-modification-date) | Nemo Action, also in the official [Cinnamon Spices](https://github.com/linuxmint/cinnamon-spices-actions) |
+| [**byBias-Icons-Paket**](https://github.com/FranzBias/byBias-Icons-Paket) | Manage a personal icon collection and your own icon theme on Cinnamon (GTK) |
+| [**Change-files-modification-date**](https://github.com/FranzBias/Change-files-modification-date) | Nemo Action to set the date of files and folders, submitted to the official [Cinnamon Spices](https://github.com/linuxmint/cinnamon-spices-actions) |
 | [**email-picker**](https://github.com/FranzBias/email-picker) | Pick an email address and copy it to the clipboard |
+| [**Millionenclick-Autologin**](https://github.com/FranzBias/Millionenclick-Autologin-Script) | Userscript: automatic login on millionenklick.web.de ([Greasy Fork](https://greasyfork.org/scripts/586469-web-de-login)) |
 
-<p align="center"><sub>Made with ❤ on Linux Mint · <a href="https://franzbias.github.io">franzbias.github.io</a></sub></p>
+<p align="center"><sub>Made with ❤ on Linux Mint · <a href="https://franzbias.github.io">franzbias.github.io</a> · all projects also on <a href="https://gitlab.com/FranzBias">GitLab</a></sub></p>
