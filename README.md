@@ -61,6 +61,7 @@ Kurzgeschichten, Gedichte und Gedanken. Die leisere Hälfte von byBias.
 | [**Smorfia**](https://github.com/FranzBias/Smorfia) | Emoji picker for Linux, search in your language and your own tags (formerly GeppEmoji) |
 | [**Command-Swiss-Army-Knife**](https://github.com/FranzBias/Command-Swiss-Army-Knife) | A small GTK toolbox: everyday commands one click away, with man/tldr docs |
 | [**Lampo-Mail**](https://github.com/FranzBias/Lampo-Mail) | Prepare an e-mail in a flash and hand it to your own mail program (GTK) |
+| [**Caps-Num-Lock-Guard**](https://github.com/FranzBias/Caps-Num-Lock-Guard) | Switches Caps Lock off after a few seconds, keeps Num Lock the way you want (X11) |
 | [**Cycle-Case**](https://github.com/FranzBias/Cycle-Case) | Cycle the case of selected text (UPPER → lower → Title) with one shortcut |
 | [**App-Analyzer-Installer**](https://github.com/FranzBias/App-Analyzer-Installer) | Analyze installed apps and recreate your setup (Tkinter) |
 | [**byBias-Icons-Paket**](https://github.com/FranzBias/byBias-Icons-Paket) | Manage a personal icon collection and your own icon theme on Cinnamon (GTK) |
